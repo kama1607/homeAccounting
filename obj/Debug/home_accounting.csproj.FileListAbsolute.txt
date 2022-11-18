@@ -1,0 +1,68 @@
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\home_accounting.exe.config
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\home_accounting.exe
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\home_accounting.pdb
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.csproj.AssemblyReference.cache
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Menu.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\App.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting_MarkupCompile.cache
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting_MarkupCompile.lref
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Menu.baml
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.g.resources
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.Properties.Resources.resources
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.csproj.GenerateResource.cache
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.csproj.CoreCompileInputs.cache
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.exe
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.pdb
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\MainWindow.xaml.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\MainWindow.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\MainWindow.baml
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\EntityFramework.dll
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\EntityFramework.xml
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaxar\source\repos\home_accounting\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting_Content.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\home_accounting.csproj.CopyComplete
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_accounting.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_category.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_accounting.baml
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_category.baml
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_addAccount.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_addCategory.g.cs
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_addAccount.baml
+C:\Users\kaxar\source\repos\home_accounting\obj\Debug\View\Pages\Page_addCategory.baml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\MainWindow.xaml.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\home_accounting.exe.config
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\home_accounting.exe
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\home_accounting.pdb
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\EntityFramework.dll
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\EntityFramework.xml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.csproj.AssemblyReference.cache
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\MainWindow.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Menu.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_accounting.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_addAccount.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_addCategory.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_category.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\App.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting_Content.g.cs
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting_MarkupCompile.cache
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting_MarkupCompile.lref
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\MainWindow.baml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Menu.baml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_accounting.baml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_addAccount.baml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_addCategory.baml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\View\Pages\Page_category.baml
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.g.resources
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.Properties.Resources.resources
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.csproj.GenerateResource.cache
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.csproj.CoreCompileInputs.cache
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.csproj.CopyComplete
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.exe
+C:\Users\kaxar\OneDrive\Рабочий стол\home_accounting\obj\Debug\home_accounting.pdb

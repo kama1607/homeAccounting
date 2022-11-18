@@ -1,0 +1,58 @@
+﻿<Page x:Class="home_accounting.View.Pages.Page_accounting"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:home_accounting.View.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_accounting">
+
+    <Grid>
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Right"
+                    Orientation="Horizontal" Height="30">
+            <Button Content="Добавить" x:Name="add_account"
+                    Click="add_account_Click" Background="White"
+                    FontSize="14" FontWeight="Bold" Margin="0 0 10 0"/>
+            <Button Content="Удалить" x:Name="delete_account"
+                    Click="delete_account_Click" 
+                    Background="White"
+                    FontSize="14" FontWeight="Bold" Margin="0 0 10 0"/>
+            <TextBlock Text="Поиск по категории" FontSize="16"
+                       Width="150" VerticalAlignment="Top" />
+            <TextBox x:Name="search_category" Width="150"
+                    FontSize="14" FontWeight="Bold" Margin="0 0 10 0"
+                     TextChanged="search_category_TextChanged"/>
+            <TextBlock Text="Фильтрация по типу" FontSize="16"
+                       Width="150" VerticalAlignment="Top" />
+            <ComboBox Width="150" x:Name="types_categories"
+                      SelectedItem="{Binding category_type}"
+                      
+                      SelectionChanged="types_categories_SelectionChanged"/>
+        </StackPanel>
+            
+        <StackPanel HorizontalAlignment="Center" Margin="0 35 0 0">
+            <DataGrid x:Name="datagrid" AutoGenerateColumns="False" ColumnWidth="*"
+                      IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Дата добавления" Binding="{Binding date_add}"/>
+                    <DataGridTextColumn Header="Приход/Расход" Binding="{Binding category_type.name}"/>
+                    <DataGridTextColumn Header="Категория" Binding="{Binding Categories.name}"/>
+                    <DataGridTextColumn Header="Сумма" Binding="{Binding sum}"/>
+                    <DataGridTextColumn Header="Коммент" Binding="{Binding comment}"/>
+                    <DataGridTemplateColumn Width="auto">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Изменить" x:Name="edit_account"
+                                        Click="edit_account_Click" 
+                                        Background="White" FontSize="14"
+                                        FontWeight="Bold"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>    
+            </DataGrid>
+        </StackPanel>
+        
+    </Grid>
+</Page>
